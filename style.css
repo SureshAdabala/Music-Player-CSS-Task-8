@@ -7,10 +7,10 @@ body {
     gap: 10px;
 }
 
-.container-t2>img {
+.container-t1>img {
     width: 100%;
 }
-.container-t2 {
+.container-t1 {
     width:200px;
     height: auto;
     animation: bakkodu 1s linear infinite;
