@@ -1,24 +1,10 @@
 
-.middle {
-    height: 0px;
+body {
+    height: 100vh;
     display: flex;
     justify-content: center;
     align-items: center;
     gap: 10px;
-}
-
-.container-t1>img {
-    width: 100%;
-    border-radius: 20px;
-}
-.container-t1 {
-    width: 190px;
-    height: auto;
-    display: flex;
-    justify-content: center;
-    align-items:center;
-    flex-direction: column;
-    margin: 70px 0px 0px 675px;
 }
 
 .container-t2>img {
@@ -30,7 +16,6 @@
     animation: bakkodu 1s linear infinite;
     animation-delay: 0s;
     margin: 20px;
-    margin-top: 260px;
 }
 
 .container {
@@ -39,7 +24,6 @@
     background-color: black;
     border-radius: 10px;
     animation: Kothi 0.4s ease infinite alternate;
-    margin-top: 260px;
 }
 
 @keyframes Kothi {
